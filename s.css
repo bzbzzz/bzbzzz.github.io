@@ -1,0 +1,25 @@
+#heading:hover
+    {background-color:#ABA194; 
+    color:#30582F;
+	font-family: 'Gentium Book Basic', serif;}
+body
+   {background-image: url("https://wallpaperscraft.com/image/armenia_yerevan_city_mountain_landscape_houses_ararat_48181_3840x2400.jpg");
+    background-size: cover;
+     }
+table
+    {border-collapse: 15px;}
+td,th
+     {border: 15px; padding: 13px;
+     }
+div.list{
+    font-size: 20px;
+	color: #6a9700
+    }
+#my   {font-size: 25px;
+	color: green; 
+}
+.table   
+     {color: green; font-size: 26px;
+}
+
+
